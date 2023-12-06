@@ -1,0 +1,16 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 76px;
+}
+
+.form {
+  display: flex;
+  align-items: flex-end;
+  gap:102px;
+  
+  height: 350px;
+  min-height: 350px;
+  max-height: 350px;
+}
