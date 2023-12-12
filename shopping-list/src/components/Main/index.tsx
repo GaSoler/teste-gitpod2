@@ -8,7 +8,7 @@ export function Main() {
     <div className='main'>
       <User />
       <div className='form'>
-        <Card />
+        <Card dailyGoal={3} dailyGoalPercentage={80} />
         <Form />
       </div>
     </div>
