@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-max-width {
+  max-width: calc(100vw - (100vw - 1160px) / 2);
+}
