@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.border-gradient {
+	background: linear-gradient(#957dad, #b8e4ff, #fdcae1) padding-box,
+		linear-gradient(260deg, #957dad, #b8e4ff, #fdcae1) border-box;
+}
